@@ -1,0 +1,186 @@
+
+@import 'https://fonts.googleapis.com/css?family=Catamaran:900';
+@import 'https://fonts.googleapis.com/css?family=Roboto';
+
+
+body{
+	background-color:white;
+	margin:0px;
+	padding:0px;
+}
+.main1{
+	width:100%;
+	height:100vh;
+
+
+}
+
+h1{
+	margin:0;
+	position:relative;
+	top:30px;
+	left:50px;
+	font-size:48px;
+	font-family:'Open Sans';
+	color:white;
+}
+
+h4{	
+	font-size:32px;
+	font-family:'Open Sans';
+	color:white;
+	float:right;
+	top:-20px;
+	position:relative;
+	right:150px;
+	margin:0;
+
+}
+.icon{
+	background-color:#ef4d14;
+
+
+}
+#logo{
+	position:relative;
+	top:20px;
+	left:20px;
+	float:left;
+	clear:right;
+}
+.images{
+	background-color:#ef4d14;
+	width:100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+	height:88vh;
+
+
+
+
+}
+.square{
+	background-color:#ffbf0b;
+	display: inline-block;
+	float:left;
+	clear:right;
+	text-align:center;
+	position:relative;
+	top:100px;
+	left:7%;
+	width:30%;
+	height:10%;
+	margin-top:150px;
+	border:3px solid black;	
+
+}
+.haha{
+	opacity:0.5;
+	margin-top: 150px;
+
+}
+img.haha:hover{
+	opacity:1;
+
+}
+
+
+img{
+	max-width:100%;
+
+}
+
+/*------------body---------------*/
+
+.container{
+	width:100%;
+	height:auto;
+
+}
+.foodone{
+	padding-top:20px;
+	margin: auto;
+    width: 62%;
+    height:100vh;
+   
+}
+.img1{
+	width:100%;
+	height:100%;
+	margin-bottom:80px;
+
+
+}
+.foodimg{
+	max-width:100%;
+	float:left;
+	clear:right;
+	width:40%;
+	
+	
+
+}
+.foodheader{
+	position:relative;
+	left:-100px;
+	top:50px;
+}
+.foodbody{
+	margin-top:100px;
+
+
+
+}
+.article{
+	width:60%;
+	float:left;
+	position: relative;
+	left:100px;
+
+
+}
+h2{
+	font-size:48px;
+	font-family:'Open Sans';
+	margin:10px;
+	padding:10px;
+	border:3px solid black;
+	width:90%;
+
+}
+
+h3{
+	font-family:'Open Sans';
+	margin:0;
+	margin-top:15px;
+
+}
+p{
+		margin:0;
+		font-family: 'Roboto', sans-serif;
+		letter-spacing: 0.8px;
+}
+.intro{
+		font-family: 'Roboto', sans-serif;
+		letter-spacing: 0.8px;
+		color:#ef4d14;
+		font-weight: bold;
+		border:2px solid black;
+		padding:10px;
+
+}
+.intro1{
+		font-family: 'Roboto', sans-serif;
+		letter-spacing: 0.8px;
+		color:#ef4d14;
+		font-weight: bold;
+		border:2px solid black;
+		padding:10px;
+
+}
+/*----------------body end------------------*/
+#panel{
+	display:none;
+}
+
